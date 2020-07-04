@@ -28,22 +28,22 @@ The amount of trading volume and liquidity is arguably the most important indica
 
 LIQ holders are the first class citizens in the LIQ Network, they can benefit from being a liquidity provider or trade miner or both. By providing liquidity and/or trading volume, LIQ holders will receive massive rewards in LIQ, other project tokens, ETH or even stable coins.
 
-## How to provide liquidity?
+## How to provide liquidity and earn rewards?
 
-## How to do trade mining?
+The general steps are:
 
-## How to get reward? How much reward can I get?
+1. Go to the exchange website and select a whitelisted pair.
+2. Add liquidity to the pool and it will give you some pool tokens (e.g. UNI-V2) in return as a proof of your share in the pool.
+3. Stake your pool tokens into the corresponding LIQ Network's LP rewards contract.
+4. Until you unstake and remove your liquidity (which you can do at any time), you earn a proportional share of the exchange pool fee as well as the extra rewards from LIQ Network.
 
-## Are the rewards locked?
+## How to do trade mining and earn rewards?
 
-## What pools are whitelisted? How to get whitelisted?
+The general steps are:
 
-## Any private sale??
+1. Go to the exchange website and select a whitelisted pair.
+2. Whenever you buy or sell, rewards proportional to the trading size will be sent to your account automatically.
 
-## Details of public sale??
+## Which pools are whitelisted?
 
-## Is LIQ sustainable?
-
-## Total supply? Tokenomics?
-
-## Inflation schedule?
+Currently, only the ETH/LIQ pool on Uniswap is whitelisted. More pools will be added very soon.
