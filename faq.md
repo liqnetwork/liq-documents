@@ -42,7 +42,8 @@ The general steps are:
 The general steps are:
 
 1. Go to the exchange website and select a whitelisted pair.
-2. Whenever you buy or sell, rewards proportional to the trading size will be sent to your account automatically.
+2. Whenever you buy or sell, rewards proportional to the trading size will be sent to corresponding LIQ Network's TM rewards contract.
+3. You can check your available rewards and claim it directly from the contract.
 
 ## Which pools are whitelisted?
 
