@@ -2,9 +2,9 @@
 
 ## What makes LIQ Network unique?
 
-**Trade mining built into the LIQ token**
+**The first AMM trade mining token**
 
-Unlike typical trade mining which is initiated by an exchange, LIQ trade mining is built into the LIQ token itself, that means trade mining is no longer bounded by a single exchange. Traders of the whitelisted pairs will be rewarded with LIQ, other project tokens, ETH or even stable coins. This revolutionizes the current DeFi space, making it possible to reward volume providers instead of charging them fees.
+LIQ is the first AMM (Automated Market Maker) trade mining token. Unlike typical trade mining which is initiated by an exchange, LIQ trade mining is built into the LIQ token itself, that means trade mining is no longer bounded by a single exchange. Traders of the whitelisted pairs will be rewarded with LIQ, other project tokens, ETH or even stable coins. This revolutionizes the current DeFi space, making it possible to reward volume providers instead of charging them fees.
 
 **Massive liquidity incentive**
 
